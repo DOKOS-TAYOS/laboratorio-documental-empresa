@@ -96,6 +96,15 @@ def docs_page() -> None:
     )
     direct_url = public_bundle_url(mode)
     st.link_button("Descarga directa desde GitHub (ZIP)", direct_url)
+    st.link_button(
+        "Consultar archivos sin comprimir en GitHub",
+        "https://github.com/DOKOS-TAYOS/laboratorio-documental-datos/tree/main/"
+        + store.VERSION_DIRS[mode].name,
+    )
+    st.caption(
+        "Los correos, tickets y proyectos también están disponibles como JSON "
+        "en la raíz del repositorio público."
+    )
     with st.expander("Enlace para un asistente o una descarga automática"):
         st.write(
             "Este enlace descarga una copia fija de la biblioteca sin abrir Streamlit "

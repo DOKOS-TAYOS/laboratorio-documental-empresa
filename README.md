@@ -68,6 +68,14 @@ sin una herramienta de ejecución habilitada.
 
 ### Descarga directa sin Streamlit
 
+Los archivos también están **sin comprimir en la rama main** del
+[repositorio público](https://github.com/DOKOS-TAYOS/laboratorio-documental-datos).
+Las carpetas `v1_caotica/`, `v2_indexada/` y `v3_markdown/` conservan su estructura.
+Los ejemplos compartidos están en la raíz: `correos.json`, `tickets.json` y
+`proyectos.json`. Para consultar un archivo como texto, usar el botón **Raw** de
+GitHub o su URL bajo `https://raw.githubusercontent.com/DOKOS-TAYOS/laboratorio-documental-datos/main/`.
+No hace falta descargar ZIP para leer los Markdown, JSON o CSV.
+
 Los tres ZIP están publicados en un [repositorio público independiente](https://github.com/DOKOS-TAYOS/laboratorio-documental-datos).
 El código y las respuestas de evaluación permanecen en este repositorio privado.
 

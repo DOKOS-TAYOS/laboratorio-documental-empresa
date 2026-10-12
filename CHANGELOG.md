@@ -2,6 +2,9 @@
 
 ## 2026-10-12
 
+- Corpus sin comprimir en main del repositorio público, con correos, tickets y proyectos accesibles como JSON.
+- Enlaces de consulta directa desde Streamlit y README público actualizado.
+
 - Tres ZIP aislados publicados mediante GitHub Releases en un repositorio de datos público separado.
 - Enlace de descarga directa y URL copiable en la biblioteca de Streamlit.
 - Generador de paquetes públicos; el código y las respuestas de evaluación permanecen privados.
