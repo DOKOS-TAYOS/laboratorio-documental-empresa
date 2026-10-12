@@ -1,0 +1,11 @@
+id,title,summary,version,owner,related,v2_path
+PROC-011,Inspección de recepción,"Procedimiento para inspección de recepción: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Técnico de calidad,PROC-012,calidad/PROC-011_inspeccion-de-recepcion.pdf
+PROC-012,Inspección visual de producto,"Procedimiento para inspección visual de producto: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Técnico de calidad,PROC-013,calidad/PROC-012_inspeccion-visual-de-producto.pdf
+PROC-013,Control de equipos de medida,"Procedimiento para control de equipos de medida: inicio, responsables, pasos, aceptación, excepciones y registros.",1.3,Técnico de calidad,PROC-014,calidad/PROC-013_control-de-equipos-de-medida.pdf
+PROC-014,Gestión de no conformidades,"Procedimiento para gestión de no conformidades: inicio, responsables, pasos, aceptación, excepciones y registros.",1.0,Técnico de calidad,PROC-015,calidad/PROC-014_gestion-de-no-conformidades.pdf
+PROC-015,Acciones correctivas y preventivas,"Procedimiento para acciones correctivas y preventivas: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Técnico de calidad,PROC-016,calidad/PROC-015_acciones-correctivas-y-preventivas.pdf
+PROC-016,Auditoría interna,"Procedimiento para auditoría interna: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Técnico de calidad,PROC-017,calidad/PROC-016_auditoria-interna.pdf
+PROC-017,Liberación de lote,"Procedimiento para liberación de lote: inicio, responsables, pasos, aceptación, excepciones y registros.",1.3,Técnico de calidad,PROC-018,calidad/PROC-017_liberacion-de-lote.pdf
+PROC-018,Trazabilidad de producto,"Procedimiento para trazabilidad de producto: inicio, responsables, pasos, aceptación, excepciones y registros.",1.0,Técnico de calidad,PROC-019,calidad/PROC-018_trazabilidad-de-producto.pdf
+PROC-019,Gestión de reclamaciones de cliente,"Procedimiento para gestión de reclamaciones de cliente: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Técnico de calidad,PROC-020,calidad/PROC-019_gestion-de-reclamaciones-de-cliente.pdf
+PROC-020,Cambios de especificación,"Procedimiento para cambios de especificación: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Técnico de calidad,PROC-011,calidad/PROC-020_cambios-de-especificacion.pdf

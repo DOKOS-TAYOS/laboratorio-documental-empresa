@@ -1,0 +1,11 @@
+id,title,summary,version,owner,related,v2_path
+PROC-071,Incorporación de personal,"Procedimiento para incorporación de personal: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Técnico de personas,PROC-072,personas/PROC-071_incorporacion-de-personal.pdf
+PROC-072,Salida de personal,"Procedimiento para salida de personal: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Técnico de personas,PROC-073,personas/PROC-072_salida-de-personal.pdf
+PROC-073,Registro de jornada,"Procedimiento para registro de jornada: inicio, responsables, pasos, aceptación, excepciones y registros.",1.3,Técnico de personas,PROC-074,personas/PROC-073_registro-de-jornada.pdf
+PROC-074,Solicitud de vacaciones,"Procedimiento para solicitud de vacaciones: inicio, responsables, pasos, aceptación, excepciones y registros.",1.0,Técnico de personas,PROC-075,personas/PROC-074_solicitud-de-vacaciones.pdf
+PROC-075,Formación obligatoria,"Procedimiento para formación obligatoria: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Técnico de personas,PROC-076,personas/PROC-075_formacion-obligatoria.pdf
+PROC-076,Evaluación de desempeño,"Procedimiento para evaluación de desempeño: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Técnico de personas,PROC-077,personas/PROC-076_evaluacion-de-desempeno.pdf
+PROC-077,Cambio de puesto,"Procedimiento para cambio de puesto: inicio, responsables, pasos, aceptación, excepciones y registros.",1.3,Técnico de personas,PROC-078,personas/PROC-077_cambio-de-puesto.pdf
+PROC-078,Mediación en conflictos,"Procedimiento para mediación en conflictos: inicio, responsables, pasos, aceptación, excepciones y registros.",1.0,Técnico de personas,PROC-079,personas/PROC-078_mediacion-en-conflictos.pdf
+PROC-079,Comunicación interna,"Procedimiento para comunicación interna: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Técnico de personas,PROC-080,personas/PROC-079_comunicacion-interna.pdf
+PROC-080,Acceso de personal externo,"Procedimiento para acceso de personal externo: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Técnico de personas,PROC-071,personas/PROC-080_acceso-de-personal-externo.pdf

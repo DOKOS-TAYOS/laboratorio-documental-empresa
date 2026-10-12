@@ -1,0 +1,162 @@
+[
+  {
+    "id": "MAIL-001",
+    "fecha": "2026-09-02",
+    "remitente": "calidad@nexo.example",
+    "destinatario": "equipo-calidad@nexo.example",
+    "asunto": "Seguimiento PROC-012: Inspección visual de producto",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Inspección visual de producto» según PROC-012. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Responsable de calidad.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-002",
+    "fecha": "2026-09-03",
+    "remitente": "operaciones@nexo.example",
+    "destinatario": "equipo-mantenimiento@nexo.example",
+    "asunto": "Seguimiento PROC-023: Plan de lubricación",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Plan de lubricación» según PROC-023. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Jefatura de mantenimiento.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-003",
+    "fecha": "2026-09-04",
+    "remitente": "proyectos@nexo.example",
+    "destinatario": "equipo-informatica@nexo.example",
+    "asunto": "Seguimiento PROC-034: Clasificación de incidentes TI",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Clasificación de incidentes TI» según PROC-034. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Responsable de TI.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-004",
+    "fecha": "2026-09-05",
+    "remitente": "soporte@nexo.example",
+    "destinatario": "equipo-seguridad@nexo.example",
+    "asunto": "Seguimiento PROC-045: Almacenamiento de productos químicos",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Almacenamiento de productos químicos» según PROC-045. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Responsable de seguridad.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-005",
+    "fecha": "2026-09-06",
+    "remitente": "calidad@nexo.example",
+    "destinatario": "equipo-logistica@nexo.example",
+    "asunto": "Seguimiento PROC-056: Transporte urgente",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Transporte urgente» según PROC-056. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Responsable de logística.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-006",
+    "fecha": "2026-09-07",
+    "remitente": "operaciones@nexo.example",
+    "destinatario": "equipo-compras@nexo.example",
+    "asunto": "Seguimiento PROC-067: Compra urgente",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Compra urgente» según PROC-067. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Responsable de compras.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-007",
+    "fecha": "2026-09-08",
+    "remitente": "proyectos@nexo.example",
+    "destinatario": "equipo-personas@nexo.example",
+    "asunto": "Seguimiento PROC-078: Mediación en conflictos",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Mediación en conflictos» según PROC-078. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Responsable de personas.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-008",
+    "fecha": "2026-09-09",
+    "remitente": "soporte@nexo.example",
+    "destinatario": "equipo-proyectos@nexo.example",
+    "asunto": "Seguimiento PROC-089: Gestión de dependencias",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Gestión de dependencias» según PROC-089. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Dirección de proyectos.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-009",
+    "fecha": "2026-09-10",
+    "remitente": "calidad@nexo.example",
+    "destinatario": "equipo-produccion@nexo.example",
+    "asunto": "Seguimiento PROC-100: Estimación de capacidad",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Estimación de capacidad» según PROC-100. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Dirección de producción.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-010",
+    "fecha": "2026-09-11",
+    "remitente": "operaciones@nexo.example",
+    "destinatario": "equipo-calidad@nexo.example",
+    "asunto": "Seguimiento PROC-011: Inspección de recepción",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Inspección de recepción» según PROC-011. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Responsable de calidad.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-011",
+    "fecha": "2026-09-12",
+    "remitente": "proyectos@nexo.example",
+    "destinatario": "equipo-mantenimiento@nexo.example",
+    "asunto": "Seguimiento PROC-022: Atención a avería urgente",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Atención a avería urgente» según PROC-022. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Jefatura de mantenimiento.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-012",
+    "fecha": "2026-09-13",
+    "remitente": "soporte@nexo.example",
+    "destinatario": "equipo-informatica@nexo.example",
+    "asunto": "Seguimiento PROC-033: Restablecimiento de credenciales",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Restablecimiento de credenciales» según PROC-033. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Responsable de TI.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-013",
+    "fecha": "2026-09-14",
+    "remitente": "calidad@nexo.example",
+    "destinatario": "equipo-seguridad@nexo.example",
+    "asunto": "Seguimiento PROC-044: Evacuación de instalaciones",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Evacuación de instalaciones» según PROC-044. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Responsable de seguridad.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-014",
+    "fecha": "2026-09-15",
+    "remitente": "operaciones@nexo.example",
+    "destinatario": "equipo-logistica@nexo.example",
+    "asunto": "Seguimiento PROC-055: Inventario cíclico",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Inventario cíclico» según PROC-055. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Responsable de logística.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-015",
+    "fecha": "2026-09-16",
+    "remitente": "proyectos@nexo.example",
+    "destinatario": "equipo-compras@nexo.example",
+    "asunto": "Seguimiento PROC-066: Renegociación de contratos",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Renegociación de contratos» según PROC-066. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Responsable de compras.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-016",
+    "fecha": "2026-09-17",
+    "remitente": "soporte@nexo.example",
+    "destinatario": "equipo-personas@nexo.example",
+    "asunto": "Seguimiento PROC-077: Cambio de puesto",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Cambio de puesto» según PROC-077. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Responsable de personas.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-017",
+    "fecha": "2026-09-18",
+    "remitente": "calidad@nexo.example",
+    "destinatario": "equipo-proyectos@nexo.example",
+    "asunto": "Seguimiento PROC-088: Cierre de proyecto",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Cierre de proyecto» según PROC-088. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Dirección de proyectos.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-018",
+    "fecha": "2026-09-19",
+    "remitente": "operaciones@nexo.example",
+    "destinatario": "equipo-produccion@nexo.example",
+    "asunto": "Seguimiento PROC-099: Análisis de productividad",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Análisis de productividad» según PROC-099. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Dirección de producción.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-019",
+    "fecha": "2026-09-20",
+    "remitente": "proyectos@nexo.example",
+    "destinatario": "equipo-operaciones@nexo.example",
+    "asunto": "Seguimiento PROC-010: Reanudación tras parada prolongada",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Reanudación tras parada prolongada» según PROC-010. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Jefatura de operaciones.\n\nSaludos,\nCoordinación interna"
+  },
+  {
+    "id": "MAIL-020",
+    "fecha": "2026-09-21",
+    "remitente": "soporte@nexo.example",
+    "destinatario": "equipo-mantenimiento@nexo.example",
+    "asunto": "Seguimiento PROC-021: Mantenimiento preventivo semanal",
+    "cuerpo": "Buenos días:\n\nSe solicita confirmar el estado de «Mantenimiento preventivo semanal» según PROC-021. El equipo debe remitir el registro firmado y las desviaciones abiertas antes del cierre del viernes. Si existe bloqueo, comunicarlo a Jefatura de mantenimiento.\n\nSaludos,\nCoordinación interna"
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "question_id": "Q-01",
+    "question": "En el procedimiento de «Cambio de formato de producto», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-005",
+    "expected_approver": "Jefatura de operaciones",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-02",
+    "question": "En el procedimiento de «Control de equipos de medida», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-013",
+    "expected_approver": "Responsable de calidad",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-03",
+    "question": "En el procedimiento de «Cambios de especificación», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-020",
+    "expected_approver": "Responsable de calidad",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-04",
+    "question": "En el procedimiento de «Calibración de sensores», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-026",
+    "expected_approver": "Jefatura de mantenimiento",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-05",
+    "question": "En el procedimiento de «Restauración de copias de seguridad», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-035",
+    "expected_approver": "Responsable de TI",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-06",
+    "question": "En el procedimiento de «Conservación de registros técnicos», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-040",
+    "expected_approver": "Responsable de TI",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-07",
+    "question": "En el procedimiento de «Evacuación de instalaciones», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-044",
+    "expected_approver": "Responsable de seguridad",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-08",
+    "question": "En el procedimiento de «Inventario cíclico», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-055",
+    "expected_approver": "Responsable de logística",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-09",
+    "question": "En el procedimiento de «Compra urgente», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-067",
+    "expected_approver": "Responsable de compras",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-10",
+    "question": "En el procedimiento de «Incorporación de personal», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-071",
+    "expected_approver": "Responsable de personas",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-11",
+    "question": "En el procedimiento de «Cambio de puesto», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-077",
+    "expected_approver": "Responsable de personas",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-12",
+    "question": "En el procedimiento de «Comité de seguimiento», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-085",
+    "expected_approver": "Dirección de proyectos",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-13",
+    "question": "En el procedimiento de «Planificación semanal de producción», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-091",
+    "expected_approver": "Dirección de producción",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-14",
+    "question": "En el procedimiento de «Gestión de desviaciones de turno», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-097",
+    "expected_approver": "Dirección de producción",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-15",
+    "question": "En el procedimiento de «Estimación de capacidad», ¿quién debe aprobar las excepciones y cuál es su identificador?",
+    "expected_doc_id": "PROC-100",
+    "expected_approver": "Dirección de producción",
+    "require_source": true
+  },
+  {
+    "question_id": "Q-16",
+    "question": "¿Cuál es la facturación real de Nexo Industrial en 2025?",
+    "expected_doc_id": null,
+    "expected_answer": null,
+    "require_source": true,
+    "note": "La información no aparece: respuesta correcta, declarar ausencia de evidencia."
+  }
+]

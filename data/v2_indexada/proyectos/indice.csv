@@ -1,0 +1,11 @@
+id,title,summary,version,owner,related,v2_path
+PROC-081,Inicio de proyecto,"Procedimiento para inicio de proyecto: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Coordinador de proyecto,PROC-082,proyectos/PROC-081_inicio-de-proyecto.pdf
+PROC-082,Definición de hitos,"Procedimiento para definición de hitos: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Coordinador de proyecto,PROC-083,proyectos/PROC-082_definicion-de-hitos.pdf
+PROC-083,Registro de riesgos de proyecto,"Procedimiento para registro de riesgos de proyecto: inicio, responsables, pasos, aceptación, excepciones y registros.",1.3,Coordinador de proyecto,PROC-084,proyectos/PROC-083_registro-de-riesgos-de-proyecto.pdf
+PROC-084,Solicitudes de cambio,"Procedimiento para solicitudes de cambio: inicio, responsables, pasos, aceptación, excepciones y registros.",1.0,Coordinador de proyecto,PROC-085,proyectos/PROC-084_solicitudes-de-cambio.pdf
+PROC-085,Comité de seguimiento,"Procedimiento para comité de seguimiento: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Coordinador de proyecto,PROC-086,proyectos/PROC-085_comite-de-seguimiento.pdf
+PROC-086,Informe semanal de avance,"Procedimiento para informe semanal de avance: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Coordinador de proyecto,PROC-087,proyectos/PROC-086_informe-semanal-de-avance.pdf
+PROC-087,Aceptación de entregables,"Procedimiento para aceptación de entregables: inicio, responsables, pasos, aceptación, excepciones y registros.",1.3,Coordinador de proyecto,PROC-088,proyectos/PROC-087_aceptacion-de-entregables.pdf
+PROC-088,Cierre de proyecto,"Procedimiento para cierre de proyecto: inicio, responsables, pasos, aceptación, excepciones y registros.",1.0,Coordinador de proyecto,PROC-089,proyectos/PROC-088_cierre-de-proyecto.pdf
+PROC-089,Gestión de dependencias,"Procedimiento para gestión de dependencias: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Coordinador de proyecto,PROC-090,proyectos/PROC-089_gestion-de-dependencias.pdf
+PROC-090,Control de presupuesto,"Procedimiento para control de presupuesto: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Coordinador de proyecto,PROC-081,proyectos/PROC-090_control-de-presupuesto.pdf

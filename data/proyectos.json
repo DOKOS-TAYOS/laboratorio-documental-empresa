@@ -1,0 +1,112 @@
+[
+  {
+    "id": "PRJ-001",
+    "nombre": "Proyecto 01: mejora inicio de proyecto",
+    "avance_porcentaje": 28,
+    "fase": "Ejecución",
+    "responsable": "Oficina de proyectos",
+    "fecha_objetivo": "2027-01-25",
+    "riesgo": "Dependencia pendiente de operaciones",
+    "ultima_actualizacion": "2026-10-02",
+    "procedimiento": "PROC-081"
+  },
+  {
+    "id": "PRJ-002",
+    "nombre": "Proyecto 02: mejora definición de hitos",
+    "avance_porcentaje": 36,
+    "fase": "Validación",
+    "responsable": "Oficina de proyectos",
+    "fecha_objetivo": "2027-02-25",
+    "riesgo": "Dependencia pendiente de calidad",
+    "ultima_actualizacion": "2026-10-03",
+    "procedimiento": "PROC-082"
+  },
+  {
+    "id": "PRJ-003",
+    "nombre": "Proyecto 03: mejora registro de riesgos de proyecto",
+    "avance_porcentaje": 44,
+    "fase": "Cierre",
+    "responsable": "Oficina de proyectos",
+    "fecha_objetivo": "2027-03-25",
+    "riesgo": "Dependencia pendiente de calidad",
+    "ultima_actualizacion": "2026-10-04",
+    "procedimiento": "PROC-083"
+  },
+  {
+    "id": "PRJ-004",
+    "nombre": "Proyecto 04: mejora solicitudes de cambio",
+    "avance_porcentaje": 52,
+    "fase": "Planificación",
+    "responsable": "Oficina de proyectos",
+    "fecha_objetivo": "2027-04-25",
+    "riesgo": "Dependencia pendiente de mantenimiento",
+    "ultima_actualizacion": "2026-10-05",
+    "procedimiento": "PROC-084"
+  },
+  {
+    "id": "PRJ-005",
+    "nombre": "Proyecto 05: mejora comité de seguimiento",
+    "avance_porcentaje": 60,
+    "fase": "Ejecución",
+    "responsable": "Oficina de proyectos",
+    "fecha_objetivo": "2027-05-25",
+    "riesgo": "Dependencia pendiente de informatica",
+    "ultima_actualizacion": "2026-10-06",
+    "procedimiento": "PROC-085"
+  },
+  {
+    "id": "PRJ-006",
+    "nombre": "Proyecto 06: mejora informe semanal de avance",
+    "avance_porcentaje": 68,
+    "fase": "Validación",
+    "responsable": "Oficina de proyectos",
+    "fecha_objetivo": "2027-06-25",
+    "riesgo": "Dependencia pendiente de informatica",
+    "ultima_actualizacion": "2026-10-07",
+    "procedimiento": "PROC-086"
+  },
+  {
+    "id": "PRJ-007",
+    "nombre": "Proyecto 07: mejora aceptación de entregables",
+    "avance_porcentaje": 76,
+    "fase": "Cierre",
+    "responsable": "Oficina de proyectos",
+    "fecha_objetivo": "2027-07-25",
+    "riesgo": "Dependencia pendiente de seguridad",
+    "ultima_actualizacion": "2026-10-08",
+    "procedimiento": "PROC-087"
+  },
+  {
+    "id": "PRJ-008",
+    "nombre": "Proyecto 08: mejora cierre de proyecto",
+    "avance_porcentaje": 84,
+    "fase": "Planificación",
+    "responsable": "Oficina de proyectos",
+    "fecha_objetivo": "2027-08-25",
+    "riesgo": "Dependencia pendiente de seguridad",
+    "ultima_actualizacion": "2026-10-09",
+    "procedimiento": "PROC-088"
+  },
+  {
+    "id": "PRJ-009",
+    "nombre": "Proyecto 09: mejora gestión de dependencias",
+    "avance_porcentaje": 92,
+    "fase": "Ejecución",
+    "responsable": "Oficina de proyectos",
+    "fecha_objetivo": "2027-09-25",
+    "riesgo": "Dependencia pendiente de logistica",
+    "ultima_actualizacion": "2026-10-10",
+    "procedimiento": "PROC-089"
+  },
+  {
+    "id": "PRJ-010",
+    "nombre": "Proyecto 10: mejora control de presupuesto",
+    "avance_porcentaje": 100,
+    "fase": "Validación",
+    "responsable": "Oficina de proyectos",
+    "fecha_objetivo": "2027-10-25",
+    "riesgo": "Dependencia pendiente de compras",
+    "ultima_actualizacion": "2026-10-01",
+    "procedimiento": "PROC-090"
+  }
+]

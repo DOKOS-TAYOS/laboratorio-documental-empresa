@@ -1,0 +1,11 @@
+id,title,summary,version,owner,related,v2_path
+PROC-051,Recepción de mercancía,"Procedimiento para recepción de mercancía: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Coordinador de almacén,PROC-052,logistica/PROC-051_recepcion-de-mercancia.pdf
+PROC-052,Preparación de pedidos,"Procedimiento para preparación de pedidos: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Coordinador de almacén,PROC-053,logistica/PROC-052_preparacion-de-pedidos.pdf
+PROC-053,Expedición de pedidos,"Procedimiento para expedición de pedidos: inicio, responsables, pasos, aceptación, excepciones y registros.",1.3,Coordinador de almacén,PROC-054,logistica/PROC-053_expedicion-de-pedidos.pdf
+PROC-054,Gestión de devoluciones,"Procedimiento para gestión de devoluciones: inicio, responsables, pasos, aceptación, excepciones y registros.",1.0,Coordinador de almacén,PROC-055,logistica/PROC-054_gestion-de-devoluciones.pdf
+PROC-055,Inventario cíclico,"Procedimiento para inventario cíclico: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Coordinador de almacén,PROC-056,logistica/PROC-055_inventario-ciclico.pdf
+PROC-056,Transporte urgente,"Procedimiento para transporte urgente: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Coordinador de almacén,PROC-057,logistica/PROC-056_transporte-urgente.pdf
+PROC-057,Etiquetado de palés,"Procedimiento para etiquetado de palés: inicio, responsables, pasos, aceptación, excepciones y registros.",1.3,Coordinador de almacén,PROC-058,logistica/PROC-057_etiquetado-de-pales.pdf
+PROC-058,Gestión de ubicaciones,"Procedimiento para gestión de ubicaciones: inicio, responsables, pasos, aceptación, excepciones y registros.",1.0,Coordinador de almacén,PROC-059,logistica/PROC-058_gestion-de-ubicaciones.pdf
+PROC-059,Cuarentena de material,"Procedimiento para cuarentena de material: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Coordinador de almacén,PROC-060,logistica/PROC-059_cuarentena-de-material.pdf
+PROC-060,Previsión de necesidades logísticas,"Procedimiento para previsión de necesidades logísticas: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Coordinador de almacén,PROC-051,logistica/PROC-060_prevision-de-necesidades-logisticas.pdf

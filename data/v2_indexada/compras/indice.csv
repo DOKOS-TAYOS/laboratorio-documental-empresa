@@ -1,0 +1,11 @@
+id,title,summary,version,owner,related,v2_path
+PROC-061,Solicitud de compra,"Procedimiento para solicitud de compra: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Comprador,PROC-062,compras/PROC-061_solicitud-de-compra.pdf
+PROC-062,Homologación de proveedores,"Procedimiento para homologación de proveedores: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Comprador,PROC-063,compras/PROC-062_homologacion-de-proveedores.pdf
+PROC-063,Comparación de ofertas,"Procedimiento para comparación de ofertas: inicio, responsables, pasos, aceptación, excepciones y registros.",1.3,Comprador,PROC-064,compras/PROC-063_comparacion-de-ofertas.pdf
+PROC-064,Emisión de orden de compra,"Procedimiento para emisión de orden de compra: inicio, responsables, pasos, aceptación, excepciones y registros.",1.0,Comprador,PROC-065,compras/PROC-064_emision-de-orden-de-compra.pdf
+PROC-065,Discrepancias de facturación,"Procedimiento para discrepancias de facturación: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Comprador,PROC-066,compras/PROC-065_discrepancias-de-facturacion.pdf
+PROC-066,Renegociación de contratos,"Procedimiento para renegociación de contratos: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Comprador,PROC-067,compras/PROC-066_renegociacion-de-contratos.pdf
+PROC-067,Compra urgente,"Procedimiento para compra urgente: inicio, responsables, pasos, aceptación, excepciones y registros.",1.3,Comprador,PROC-068,compras/PROC-067_compra-urgente.pdf
+PROC-068,Recepción de servicios,"Procedimiento para recepción de servicios: inicio, responsables, pasos, aceptación, excepciones y registros.",1.0,Comprador,PROC-069,compras/PROC-068_recepcion-de-servicios.pdf
+PROC-069,Renovación de acuerdos,"Procedimiento para renovación de acuerdos: inicio, responsables, pasos, aceptación, excepciones y registros.",1.1,Comprador,PROC-070,compras/PROC-069_renovacion-de-acuerdos.pdf
+PROC-070,Control de gastos menores,"Procedimiento para control de gastos menores: inicio, responsables, pasos, aceptación, excepciones y registros.",1.2,Comprador,PROC-061,compras/PROC-070_control-de-gastos-menores.pdf

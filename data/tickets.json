@@ -1,0 +1,252 @@
+[
+  {
+    "id": "INC-0001",
+    "asunto": "Fallo de acceso en centro Norte",
+    "prioridad": "Media",
+    "estado": "En investigación",
+    "area": "operaciones",
+    "procedimiento": "PROC-008",
+    "descripcion": "Se observa una anomalía sintética ligada a control de materiales en proceso. Registro recibido en turno 2.",
+    "actuacion": "Aplicar PROC-008, conservar evidencia y escalar a Jefatura de operaciones cuando corresponda."
+  },
+  {
+    "id": "INC-0002",
+    "asunto": "Retraso de material en centro Sur",
+    "prioridad": "Alta",
+    "estado": "Resuelto",
+    "area": "calidad",
+    "procedimiento": "PROC-015",
+    "descripcion": "Se observa una anomalía sintética ligada a acciones correctivas y preventivas. Registro recibido en turno 3.",
+    "actuacion": "Aplicar PROC-015, conservar evidencia y escalar a Responsable de calidad cuando corresponda."
+  },
+  {
+    "id": "INC-0003",
+    "asunto": "Desviación de calidad en centro Norte",
+    "prioridad": "Crítica",
+    "estado": "Pendiente de aprobación",
+    "area": "mantenimiento",
+    "procedimiento": "PROC-022",
+    "descripcion": "Se observa una anomalía sintética ligada a atención a avería urgente. Registro recibido en turno 1.",
+    "actuacion": "Aplicar PROC-022, conservar evidencia y escalar a Jefatura de mantenimiento cuando corresponda."
+  },
+  {
+    "id": "INC-0004",
+    "asunto": "Parada no planificada en centro Sur",
+    "prioridad": "Baja",
+    "estado": "Abierto",
+    "area": "mantenimiento",
+    "procedimiento": "PROC-029",
+    "descripcion": "Se observa una anomalía sintética ligada a análisis de causa raíz de fallos. Registro recibido en turno 2.",
+    "actuacion": "Aplicar PROC-029, conservar evidencia y escalar a Jefatura de mantenimiento cuando corresponda."
+  },
+  {
+    "id": "INC-0005",
+    "asunto": "Reclamación de cliente en centro Norte",
+    "prioridad": "Media",
+    "estado": "En investigación",
+    "area": "informatica",
+    "procedimiento": "PROC-036",
+    "descripcion": "Se observa una anomalía sintética ligada a revisión de permisos. Registro recibido en turno 3.",
+    "actuacion": "Aplicar PROC-036, conservar evidencia y escalar a Responsable de TI cuando corresponda."
+  },
+  {
+    "id": "INC-0006",
+    "asunto": "Solicitud de cambio en centro Sur",
+    "prioridad": "Alta",
+    "estado": "Resuelto",
+    "area": "seguridad",
+    "procedimiento": "PROC-043",
+    "descripcion": "Se observa una anomalía sintética ligada a uso de equipos de protección. Registro recibido en turno 1.",
+    "actuacion": "Aplicar PROC-043, conservar evidencia y escalar a Responsable de seguridad cuando corresponda."
+  },
+  {
+    "id": "INC-0007",
+    "asunto": "Bloqueo de compra en centro Norte",
+    "prioridad": "Crítica",
+    "estado": "Pendiente de aprobación",
+    "area": "seguridad",
+    "procedimiento": "PROC-050",
+    "descripcion": "Se observa una anomalía sintética ligada a respuesta a derrames. Registro recibido en turno 2.",
+    "actuacion": "Aplicar PROC-050, conservar evidencia y escalar a Responsable de seguridad cuando corresponda."
+  },
+  {
+    "id": "INC-0008",
+    "asunto": "Incidencia de sensor en centro Sur",
+    "prioridad": "Baja",
+    "estado": "Abierto",
+    "area": "logistica",
+    "procedimiento": "PROC-057",
+    "descripcion": "Se observa una anomalía sintética ligada a etiquetado de palés. Registro recibido en turno 3.",
+    "actuacion": "Aplicar PROC-057, conservar evidencia y escalar a Responsable de logística cuando corresponda."
+  },
+  {
+    "id": "INC-0009",
+    "asunto": "Fallo de acceso en centro Norte",
+    "prioridad": "Media",
+    "estado": "En investigación",
+    "area": "compras",
+    "procedimiento": "PROC-064",
+    "descripcion": "Se observa una anomalía sintética ligada a emisión de orden de compra. Registro recibido en turno 1.",
+    "actuacion": "Aplicar PROC-064, conservar evidencia y escalar a Responsable de compras cuando corresponda."
+  },
+  {
+    "id": "INC-0010",
+    "asunto": "Retraso de material en centro Sur",
+    "prioridad": "Alta",
+    "estado": "Resuelto",
+    "area": "personas",
+    "procedimiento": "PROC-071",
+    "descripcion": "Se observa una anomalía sintética ligada a incorporación de personal. Registro recibido en turno 2.",
+    "actuacion": "Aplicar PROC-071, conservar evidencia y escalar a Responsable de personas cuando corresponda."
+  },
+  {
+    "id": "INC-0011",
+    "asunto": "Desviación de calidad en centro Norte",
+    "prioridad": "Crítica",
+    "estado": "Pendiente de aprobación",
+    "area": "personas",
+    "procedimiento": "PROC-078",
+    "descripcion": "Se observa una anomalía sintética ligada a mediación en conflictos. Registro recibido en turno 3.",
+    "actuacion": "Aplicar PROC-078, conservar evidencia y escalar a Responsable de personas cuando corresponda."
+  },
+  {
+    "id": "INC-0012",
+    "asunto": "Parada no planificada en centro Sur",
+    "prioridad": "Baja",
+    "estado": "Abierto",
+    "area": "proyectos",
+    "procedimiento": "PROC-085",
+    "descripcion": "Se observa una anomalía sintética ligada a comité de seguimiento. Registro recibido en turno 1.",
+    "actuacion": "Aplicar PROC-085, conservar evidencia y escalar a Dirección de proyectos cuando corresponda."
+  },
+  {
+    "id": "INC-0013",
+    "asunto": "Reclamación de cliente en centro Norte",
+    "prioridad": "Media",
+    "estado": "En investigación",
+    "area": "produccion",
+    "procedimiento": "PROC-092",
+    "descripcion": "Se observa una anomalía sintética ligada a medición de oee. Registro recibido en turno 2.",
+    "actuacion": "Aplicar PROC-092, conservar evidencia y escalar a Dirección de producción cuando corresponda."
+  },
+  {
+    "id": "INC-0014",
+    "asunto": "Solicitud de cambio en centro Sur",
+    "prioridad": "Alta",
+    "estado": "Resuelto",
+    "area": "produccion",
+    "procedimiento": "PROC-099",
+    "descripcion": "Se observa una anomalía sintética ligada a análisis de productividad. Registro recibido en turno 3.",
+    "actuacion": "Aplicar PROC-099, conservar evidencia y escalar a Dirección de producción cuando corresponda."
+  },
+  {
+    "id": "INC-0015",
+    "asunto": "Bloqueo de compra en centro Norte",
+    "prioridad": "Crítica",
+    "estado": "Pendiente de aprobación",
+    "area": "operaciones",
+    "procedimiento": "PROC-006",
+    "descripcion": "Se observa una anomalía sintética ligada a arranque de lote piloto. Registro recibido en turno 1.",
+    "actuacion": "Aplicar PROC-006, conservar evidencia y escalar a Jefatura de operaciones cuando corresponda."
+  },
+  {
+    "id": "INC-0016",
+    "asunto": "Incidencia de sensor en centro Sur",
+    "prioridad": "Baja",
+    "estado": "Abierto",
+    "area": "calidad",
+    "procedimiento": "PROC-013",
+    "descripcion": "Se observa una anomalía sintética ligada a control de equipos de medida. Registro recibido en turno 2.",
+    "actuacion": "Aplicar PROC-013, conservar evidencia y escalar a Responsable de calidad cuando corresponda."
+  },
+  {
+    "id": "INC-0017",
+    "asunto": "Fallo de acceso en centro Norte",
+    "prioridad": "Media",
+    "estado": "En investigación",
+    "area": "calidad",
+    "procedimiento": "PROC-020",
+    "descripcion": "Se observa una anomalía sintética ligada a cambios de especificación. Registro recibido en turno 3.",
+    "actuacion": "Aplicar PROC-020, conservar evidencia y escalar a Responsable de calidad cuando corresponda."
+  },
+  {
+    "id": "INC-0018",
+    "asunto": "Retraso de material en centro Sur",
+    "prioridad": "Alta",
+    "estado": "Resuelto",
+    "area": "mantenimiento",
+    "procedimiento": "PROC-027",
+    "descripcion": "Se observa una anomalía sintética ligada a mantenimiento de cintas transportadoras. Registro recibido en turno 1.",
+    "actuacion": "Aplicar PROC-027, conservar evidencia y escalar a Jefatura de mantenimiento cuando corresponda."
+  },
+  {
+    "id": "INC-0019",
+    "asunto": "Desviación de calidad en centro Norte",
+    "prioridad": "Crítica",
+    "estado": "Pendiente de aprobación",
+    "area": "informatica",
+    "procedimiento": "PROC-034",
+    "descripcion": "Se observa una anomalía sintética ligada a clasificación de incidentes ti. Registro recibido en turno 2.",
+    "actuacion": "Aplicar PROC-034, conservar evidencia y escalar a Responsable de TI cuando corresponda."
+  },
+  {
+    "id": "INC-0020",
+    "asunto": "Parada no planificada en centro Sur",
+    "prioridad": "Baja",
+    "estado": "Abierto",
+    "area": "seguridad",
+    "procedimiento": "PROC-041",
+    "descripcion": "Se observa una anomalía sintética ligada a notificación de accidente. Registro recibido en turno 3.",
+    "actuacion": "Aplicar PROC-041, conservar evidencia y escalar a Responsable de seguridad cuando corresponda."
+  },
+  {
+    "id": "INC-0021",
+    "asunto": "Reclamación de cliente en centro Norte",
+    "prioridad": "Media",
+    "estado": "En investigación",
+    "area": "seguridad",
+    "procedimiento": "PROC-048",
+    "descripcion": "Se observa una anomalía sintética ligada a investigación de casi accidentes. Registro recibido en turno 1.",
+    "actuacion": "Aplicar PROC-048, conservar evidencia y escalar a Responsable de seguridad cuando corresponda."
+  },
+  {
+    "id": "INC-0022",
+    "asunto": "Solicitud de cambio en centro Sur",
+    "prioridad": "Alta",
+    "estado": "Resuelto",
+    "area": "logistica",
+    "procedimiento": "PROC-055",
+    "descripcion": "Se observa una anomalía sintética ligada a inventario cíclico. Registro recibido en turno 2.",
+    "actuacion": "Aplicar PROC-055, conservar evidencia y escalar a Responsable de logística cuando corresponda."
+  },
+  {
+    "id": "INC-0023",
+    "asunto": "Bloqueo de compra en centro Norte",
+    "prioridad": "Crítica",
+    "estado": "Pendiente de aprobación",
+    "area": "compras",
+    "procedimiento": "PROC-062",
+    "descripcion": "Se observa una anomalía sintética ligada a homologación de proveedores. Registro recibido en turno 3.",
+    "actuacion": "Aplicar PROC-062, conservar evidencia y escalar a Responsable de compras cuando corresponda."
+  },
+  {
+    "id": "INC-0024",
+    "asunto": "Incidencia de sensor en centro Sur",
+    "prioridad": "Baja",
+    "estado": "Abierto",
+    "area": "compras",
+    "procedimiento": "PROC-069",
+    "descripcion": "Se observa una anomalía sintética ligada a renovación de acuerdos. Registro recibido en turno 1.",
+    "actuacion": "Aplicar PROC-069, conservar evidencia y escalar a Responsable de compras cuando corresponda."
+  },
+  {
+    "id": "INC-0025",
+    "asunto": "Fallo de acceso en centro Norte",
+    "prioridad": "Media",
+    "estado": "En investigación",
+    "area": "personas",
+    "procedimiento": "PROC-076",
+    "descripcion": "Se observa una anomalía sintética ligada a evaluación de desempeño. Registro recibido en turno 2.",
+    "actuacion": "Aplicar PROC-076, conservar evidencia y escalar a Responsable de personas cuando corresponda."
+  }
+]

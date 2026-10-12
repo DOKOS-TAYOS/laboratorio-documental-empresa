@@ -1,0 +1,1 @@
+"""Synthetic enterprise document laboratory."""
