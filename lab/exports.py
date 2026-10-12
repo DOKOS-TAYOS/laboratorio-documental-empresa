@@ -9,6 +9,18 @@ from .store import DATA, VERSION_DIRS
 
 _SHARED = ("correos.json", "tickets.json", "proyectos.json")
 
+PUBLIC_RELEASE_URL = (
+    "https://github.com/DOKOS-TAYOS/laboratorio-documental-datos"
+    "/releases/download/v1.0.0"
+)
+
+
+def public_bundle_url(version: str) -> str:
+    """Return the direct URL of the published, versioned corpus snapshot."""
+    if version not in VERSION_DIRS:
+        raise ValueError("Versión no válida")
+    return f"{PUBLIC_RELEASE_URL}/laboratorio_{version}_chatgpt.zip"
+
 
 def export_zip(version: str) -> bytes:
     """Return a ZIP containing only the requested version and shared examples.

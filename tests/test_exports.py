@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 from io import BytesIO
 from zipfile import ZipFile
 
@@ -22,6 +23,12 @@ def test_export_version_isolated(version: str, root: str, pdfs: int) -> None:
     with ZipFile(BytesIO(export_zip(version))) as archive:
         paths = archive.namelist()
         assert archive.testzip() is None
+        for name, count in (
+            ("correos.json", 20),
+            ("tickets.json", 25),
+            ("proyectos.json", 10),
+        ):
+            assert len(json.loads(archive.read(name))) == count
         assert sum(path.endswith(".pdf") for path in paths) == pdfs
         assert all(
             path.startswith(root)

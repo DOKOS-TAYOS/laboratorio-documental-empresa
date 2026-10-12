@@ -42,16 +42,17 @@ def test_documentation_versions(version: str) -> None:
     assert not app.exception
     assert app.main.title[0].value == "Biblioteca de documentación"
     assert len(app.get("download_button")) >= 1
+    assert app.code[0].value.endswith(f"laboratorio_{version[:2].lower()}_chatgpt.zip")
     if version.startswith("V1"):
         app.button[0].click().run()
         assert not app.exception
-        assert app.code[0].value != "/"
+        assert app.code[-1].value.startswith("/") and app.code[-1].value != "/"
     elif version.startswith("V2"):
         assert len(app.dataframe[0].value) == 10
         app.selectbox[0].set_value("informatica").run()
         assert not app.exception
     else:
-        assert len(app.expander) > 0
+        assert any(item.label.startswith("PROC-") for item in app.expander)
         app.text_input[0].set_value("zzzzsinresultadoszzzz").run()
         assert not app.exception
-        assert len(app.expander) == 0
+        assert not any(item.label.startswith("PROC-") for item in app.expander)

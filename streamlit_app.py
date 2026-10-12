@@ -7,7 +7,7 @@ from pathlib import Path
 import streamlit as st
 
 from lab import store
-from lab.exports import export_zip
+from lab.exports import export_zip, public_bundle_url
 
 st.set_page_config(
     page_title="Nexo Industrial | Laboratorio de documentación", layout="wide"
@@ -94,6 +94,18 @@ def docs_page() -> None:
     st.caption(
         "Para trabajar con ChatGPT, adjunte este ZIP desde Biblioteca en una conversación. Cada versión debe analizarse por separado."
     )
+    direct_url = public_bundle_url(mode)
+    st.link_button("Descarga directa desde GitHub (ZIP)", direct_url)
+    with st.expander("Enlace para un asistente o una descarga automática"):
+        st.write(
+            "Este enlace descarga una copia fija de la biblioteca sin abrir Streamlit "
+            "ni iniciar sesión en GitHub. Puede copiarlo y dárselo a un asistente "
+            "que tenga herramientas para descargar y abrir archivos. "
+            "Si el asistente no puede descargarlo, adjunte el ZIP a la conversación."
+        )
+        st.code(direct_url, language=None)
+        st.caption("Edición publicada: v1.0.0. No incluye respuestas de evaluación.")
+        st.caption("Cada ZIP incluye también 20 correos, 25 tickets y 10 proyectos.")
     if mode == "v1":
         st.warning(
             "No hay índice, buscador de contenido ni metadatos de clasificación. Hay carpetas ambiguas y copias obsoletas."

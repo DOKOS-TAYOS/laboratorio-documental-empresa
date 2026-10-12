@@ -66,6 +66,27 @@ sin una herramienta de ejecución habilitada.
 
 ## Acceso programático opcional (REST/MCP)
 
+### Descarga directa sin Streamlit
+
+Los tres ZIP están publicados en un [repositorio público independiente](https://github.com/DOKOS-TAYOS/laboratorio-documental-datos).
+El código y las respuestas de evaluación permanecen en este repositorio privado.
+
+- [V1 · Caótica](https://github.com/DOKOS-TAYOS/laboratorio-documental-datos/releases/download/v1.0.0/laboratorio_v1_chatgpt.zip)
+- [V2 · Indexada](https://github.com/DOKOS-TAYOS/laboratorio-documental-datos/releases/download/v1.0.0/laboratorio_v2_chatgpt.zip)
+- [V3 · Markdown y chunks](https://github.com/DOKOS-TAYOS/laboratorio-documental-datos/releases/download/v1.0.0/laboratorio_v3_chatgpt.zip)
+
+Son enlaces a archivos estáticos de la edición **v1.0.0**, disponibles sin iniciar
+sesión. Un asistente con herramientas de descarga y ejecución puede descargarlos
+y extraerlos. Un navegador de búsqueda no siempre puede abrir un ZIP; en ese caso,
+descargarlo y adjuntarlo manualmente. El enlace no añade archivos automáticamente
+a la Biblioteca de ChatGPT.
+
+La sección Documentación de la web muestra el enlace de la versión seleccionada.
+Las futuras modificaciones del corpus no actualizan esta edición: para publicar
+otra, ejecutar `python -m tools.build_public_bundles` desde el entorno virtual,
+verificar los ZIP, crear una nueva release y actualizar `PUBLIC_RELEASE_URL` en
+`lab/exports.py`. No subir `data/internal/` al repositorio público.
+
 Streamlit sirve como interfaz humana. Para la integración con IA existen dos
 adaptadores **de solo lectura**, ambos reutilizan los mismos archivos y reglas de
 consulta. Hay que desplegar uno de ellos en un servidor alcanzable desde ChatGPT;
