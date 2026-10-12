@@ -167,6 +167,16 @@ PDF V1/V2, navegación segura, búsqueda, autenticación REST, aislamiento de lo
 y las páginas Streamlit con sus tres versiones documentales. GitHub Actions ejecuta
 las comprobaciones en Windows y Linux, con Python 3.12.
 
+Para repetir la comprobación en Linux desde Windows con Docker:
+
+```powershell
+docker run --rm --mount "type=bind,source=$($PWD.Path),target=/workspace,readonly" --workdir /workspace python:3.12-slim sh tools/check_linux.sh
+```
+
+El script crea un entorno virtual temporal dentro del contenedor, comprueba el
+arranque con las dependencias mínimas de Cloud y después ejecuta todas las pruebas.
+El proyecto se monta en modo de solo lectura.
+
 ## Prueba comparativa sugerida
 
 1. Elegir una pregunta cuya respuesta aparezca en uno o varios documentos.

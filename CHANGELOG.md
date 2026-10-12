@@ -7,4 +7,5 @@
 - Rutas de navegación y archivos ZIP uniformes en Windows y Linux; URI SQLite segura para rutas con espacios.
 - Pruebas de páginas, navegación y versiones documentales con Streamlit AppTest.
 - Comprobaciones automáticas en GitHub para Windows y Linux.
+- Script de verificación Linux con Docker, incluyendo arranque con las dependencias mínimas de Cloud.
 - Instrucciones de despliegue y ejecución local actualizadas.
